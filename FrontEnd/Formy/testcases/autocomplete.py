@@ -10,8 +10,8 @@ click(by, navbutton)
 click(by, upload_button)
 
 
-click(by, file_upload)
-upload(by, file_upload, r"C:\Users\av293\OneDrive\Pictures\dp.png")
+def not_working():
+    click(by, file_upload)
+    upload(by, file_upload, r"C:\Users\av293\OneDrive\Pictures\dp.png")
   
  
-

@@ -12,7 +12,7 @@ city = "//input[@id='locality']"
 state = "//input[@id='administrative_area_level_1']"
 zip_code = "//input[@id='postal_code']"
 country = "//input[@id='country']"
-file_upload = "//button[@class='btn btn-secondary btn-choose']"
+file_upload = "//input[@id='file-upload-field']"
 
 
 

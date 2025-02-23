@@ -45,8 +45,10 @@ def store_cookies(filename='cookies.json'):
     with open(filename, 'w') as file:  
         json.dump(cookies, file)  
 
+
 account_hover()
 click_signin_button()
 input_email("9610abhisingh@gmail.com")
 input_password("1Billion$")
 store_cookies() 
+

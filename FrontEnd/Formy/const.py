@@ -15,5 +15,5 @@ zip_code = "//input[@id='postal_code']"
 country = "//input[@id='country']"
 file_upload = "//input[@id='file-upload-field']"
 
-
+name=r"C:\Users\av293\OneDrive\Pictures\dp.png"
 

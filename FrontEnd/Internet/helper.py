@@ -17,3 +17,4 @@ def input_field(by, locator, text):
     element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((by, locator)))
     element.clear()  
     element.send_keys(text)
+
